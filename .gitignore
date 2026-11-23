@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment & secrets
+.env
+.env.local
+
+# Database & Chroma storage
+data/app.db
+data/app.db-journal
+data/chroma/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

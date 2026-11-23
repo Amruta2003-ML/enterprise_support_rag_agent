@@ -1,0 +1,23 @@
+{
+  "vpn.md": {
+    "departments": ["engineering", "it", "finance", "sales", "hr", "all"]
+  },
+  "gitlab.md": {
+    "departments": ["engineering", "it"]
+  },
+  "wifi_network.md": {
+    "departments": ["all"]
+  },
+  "sso_okta.md": {
+    "departments": ["all"]
+  },
+  "hardware_laptop.md": {
+    "departments": ["all"]
+  },
+  "software_requests.md": {
+    "departments": ["engineering", "it", "all"]
+  },
+  "security_incidents.md": {
+    "departments": ["all"]
+  }
+}
